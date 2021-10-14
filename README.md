@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brnxh
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C Sharp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
